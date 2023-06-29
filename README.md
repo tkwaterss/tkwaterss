@@ -8,7 +8,8 @@ Links to my portfolio and Linked in pages
 <a href="https://tkwaterss.github.io/" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
 ______________________________________
 List of my skills icons
-<a href="URL_REDIRECT" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
+<a href="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" height="60" /></a>
+
 
 
 <!--
