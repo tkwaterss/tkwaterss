@@ -4,8 +4,8 @@
 Add some more info to my about section
 ______________________________________
 #### My Pages
-<a href="https://tkwaterss.github.io/" target="blank"><img align="center" src="./Drawing-4.sketchpad (3).png" height="60" /></a>
-<a href="https://www.linkedin.com/in/tobinkwaters/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" height="60" alt="linkedin" /></a>
+<a href="https://tkwaterss.github.io/" target="_blank"><img align="center" src="./Drawing-4.sketchpad (3).png" height="60" /></a>
+<a href="https://www.linkedin.com/in/tobinkwaters/" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" height="60" alt="linkedin" /></a>
 ______________________________________
 <a href="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" height="60" /></a>
 <a href="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" height="60" alt="heroku" /></a>
